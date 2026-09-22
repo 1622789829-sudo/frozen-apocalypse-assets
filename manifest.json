@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-22T03:03:55Z",
+  "baseUrl": "https://1622789829-sudo.github.io/frozen-apocalypse-assets",
+  "assets": {
+    "tomato_can": {
+      "name": "曙光牌番茄罐头",
+      "type": "model/gltf-binary",
+      "url": "https://1622789829-sudo.github.io/frozen-apocalypse-assets/models/tomato_can.391a1239959a.glb",
+      "bytes": 861288,
+      "sha256": "391a1239959ade6a3c7c4a4bf5f58b18faafca225713e65ae6444388abd19519",
+      "category": "food",
+      "scale": 1.0,
+      "dimensionsM": [
+        0.078,
+        0.118,
+        0.078
+      ]
+    }
+  }
+}

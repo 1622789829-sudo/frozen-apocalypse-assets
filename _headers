@@ -1,0 +1,11 @@
+/models/*
+  Access-Control-Allow-Origin: *
+  Cross-Origin-Resource-Policy: cross-origin
+  Cache-Control: public, max-age=31536000, immutable
+  Content-Type: model/gltf-binary
+
+/manifest.json
+  Access-Control-Allow-Origin: *
+  Cross-Origin-Resource-Policy: cross-origin
+  Cache-Control: no-cache
+  Content-Type: application/json; charset=utf-8
